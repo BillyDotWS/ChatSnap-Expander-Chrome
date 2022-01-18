@@ -1,6 +1,8 @@
 {
   "manifest_version": 2,
   "name": "ChatSnap Expander",
+  "author": "CookieBilly",
+  "homepage_url": "https://github.com/CookieBilly/ChatSnap-Expander",
   "version": "1.0",
   "permissions": ["http://*/*"],
   "content_scripts": [
