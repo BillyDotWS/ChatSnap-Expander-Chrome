@@ -17,4 +17,4 @@ How to use this chrome addon.
 # 💻 How to contribute:
 How to help advance the extension & report any issues.
 > - If you understand Javascript and the Chrome API, feel free to make a pull request with fixes/features.
-> - If you just have ideas/issues, please create a GitHub issue [here](https://github.com/CookieBilly/ChatSnap-Expander/issues) with the appropriate tags.
+> - If you just have ideas/issues, please create a GitHub issue [here](https://github.com/CookieBilly/ChatSnap-Expander/issues/new) with the appropriate tags.
